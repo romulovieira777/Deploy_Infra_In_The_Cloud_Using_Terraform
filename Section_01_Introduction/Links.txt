@@ -3,3 +3,6 @@ https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
 Azure
 https://azure.microsoft.com/en-us
+
+Visual Studio Code
+https://code.visualstudio.com/download
